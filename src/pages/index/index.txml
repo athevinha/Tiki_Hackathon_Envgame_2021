@@ -1,0 +1,3 @@
+<view>
+  <web-view id="web-view1" src="https://envgame.online/" onMessage="onMessage" />
+</view>

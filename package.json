@@ -1,0 +1,8 @@
+{
+  "name": "envgame-tiki",
+  "version": "0.1.1",
+  "tiki": {
+    "appIdentifier": "com.tiki.app.envgame",
+    "buildNumber": 2
+  }
+}
